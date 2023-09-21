@@ -2,3 +2,9 @@ hello world this is my first file
 I am doing some changes
 third changes
 
+Take input from user and add the values
+i am nihit
+
+
+submit data
+
